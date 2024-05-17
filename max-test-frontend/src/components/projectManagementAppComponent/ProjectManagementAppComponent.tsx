@@ -1,8 +1,9 @@
+import ProjectsSidebar from "./components/ProjectsSidebar.tsx";
 
 const ProjectManagementAppComponent = () => {
     return (
         <main>
-            <h2>Project Management</h2>
+            <ProjectsSidebar />
         </main>
     );
 }
