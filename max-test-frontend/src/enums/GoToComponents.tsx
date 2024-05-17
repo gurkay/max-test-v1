@@ -9,4 +9,5 @@ export enum GoToComponents {
     TICTACTOECOMPONENT = 'tic-tac-toe-component',
     INVESTINGCOMPONENT = 'investing-component',
     WORKINGREFSANDPORTSCOMPONENT = 'working-refs-and-ports-component',
+    PROJECTMANAGEMENTAPPCOMPONENT = 'project-management-app-component',
 }
